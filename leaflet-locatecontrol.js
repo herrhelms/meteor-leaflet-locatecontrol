@@ -298,8 +298,8 @@ if (typeof L !== 'undefined') {
 				return new L.Control.Locate(options);
 		};
 	} else {
-		console.log('You don\'t need this module. L.Control.Locate is already exists!');
-		console.log('Deinstall this package to keep your code slick: "meteor remove herrhelms:leaflet-locatecontrol".')
+		console.log('You don\'t need this module. L.Control.Locate already exists!');
+		console.log('Deinstall package to keep your code slick: "meteor remove herrhelms:meteor-leaflet-locatecontrol".')
 	}
 } else {
 	console.log('Leaflet Object [L] is missing. Did you add any Mapbox or Leaflet modules? (i.E. dfischer:meteor-mapbox)')
