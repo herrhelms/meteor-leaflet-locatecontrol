@@ -2,6 +2,9 @@ Meteor.startup(function() {
 
 if (typeof L !== 'undefined') {
 	if (typeof L.Control.Locate != 'object') {
+		
+		/* original code of @domoritz leaflet-locatecontrol (v0.34.0) */
+		
 		L.Control.Locate = L.Control.extend({
 				options: {
 						position: 'topleft',

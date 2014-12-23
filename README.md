@@ -1,7 +1,7 @@
 ### meteor-leaflet-locatecontrol
 
-This package ports »L.Control.Locate« by Dominik Moritz ([@domoritz](https://github.com/domoritz)) to your meteor project.
-Read more about options and configuration at his github page for [leaflet-locatecontrol](https://github.com/domoritz/leaflet-locatecontrol). 
+This package ports »L.Control.Locate« (v0.34.0) by Dominik Moritz ([@domoritz](https://github.com/domoritz)) to your meteor project.
+Read more about options and configuration at his github page for [leaflet-locatecontrol](https://github.com/domoritz/leaflet-locatecontrol/releases/tag/v0.34.0). 
 
 ### basic usage
 
