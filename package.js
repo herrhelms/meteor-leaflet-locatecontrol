@@ -1,6 +1,6 @@
 Package.describe({
   name: 'herrhelms:meteor-leaflet-locatecontrol',
-  summary: 'L.Control.Locate by @domoritz (minified v0.34.0) ported to meteor',
+  summary: 'L.Control.Locate by @domoritz ported to meteor',
   version: '1.0.1',
   git: 'https://github.com/herrhelms/meteor-leaflet-locatecontrol.git'
 });
