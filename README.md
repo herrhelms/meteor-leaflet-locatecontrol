@@ -13,7 +13,7 @@ I've worked with `dfischer:meteor-mapbox` but there are a few others around.
 ### available options 
 The locate control inherits options from other [leaflet controls](http://leafletjs.com/reference.html#control).
 
-```
+```js
 	L.control.locate({
     	position: 'topleft',  // set the location of the control
     	drawCircle: true,  // controls whether a circle is drawn that shows the uncertainty about the location
